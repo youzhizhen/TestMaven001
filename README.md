@@ -1,0 +1,4 @@
+TestMaven001
+============
+
+mavenGItStudy
